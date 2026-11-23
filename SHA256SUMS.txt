@@ -1,0 +1,2 @@
+f77c26cd7852c2829f28811751c7bfebac23dac917d72aab9e8b7d74b761adfd  Antherra-Mac.dmg
+4430e4e77bae8435cdd65190993320ef08bbd35a2675a0cc8bd4278457ee7271  Antherra-Windows.zip
